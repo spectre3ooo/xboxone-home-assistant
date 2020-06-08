@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Persistent tokens on reboot
 touch /config/.xbox-token.json
